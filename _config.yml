@@ -1,8 +1,23 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Documentation publique pour Datopia
+description: Un site très simple avec quelques informations sur l'application Datopia
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  # Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/logo.png"
+
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
+
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+#
+# Supports true (default) or false
+heading_anchors: true
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
+
