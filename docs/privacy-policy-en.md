@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy EN
+---
+
+
 # Privacy Policy
 
 **Effective Date: [Date]**
