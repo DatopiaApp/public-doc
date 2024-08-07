@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Privacy Policy FR
-nav_order: 2
 ---
 
 # Politique de Confidentialité
