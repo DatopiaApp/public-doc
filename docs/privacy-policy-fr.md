@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy FR
+nav_order: 2
+---
+
 # Politique de Confidentialité
 
 **Date d'entrée en vigueur : 07/08/2024**
